@@ -5,13 +5,14 @@ Books that can or might change your view.
 We can either try to do our own thing or begin with learning from others before we do our own thing.
 
 ## Method of reading:
-Got time - buy the books
-Got no time - buy the audio book or subscribe at audible or similar services. Listen on the go.
+
+- Got time - buy the books
+- Got no time - buy the audio book or subscribe at audible or similar services. Listen on the go.
 
 ## Where to start
-If you argue a lot - Dale Carnegie
-If you are an introvert - Dale Carnegie then Susan Cain
-If you are an introvert that also does management - the above plus Kim Scott and Gene Kim
+- If you argue a lot - Dale Carnegie
+- If you are an introvert - Dale Carnegie then Susan Cain
+- If you are an introvert that also does management - the above plus Kim Scott and Gene Kim
 
 ## I've read or reading so far:
 
