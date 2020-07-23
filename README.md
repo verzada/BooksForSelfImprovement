@@ -38,3 +38,6 @@ See the madness that occurs when development is done top down and driven by peop
 ### Radical Candor by Kim Scott 
 A slightly different angle than "How To Win Friends and Influence People"?
 Not done reading (23.07.2020)
+
+# List of books to consider
+https://thinkgrowprosper.com/blog/16-book-recommendations-to-help-you-think-grow-and-prosper
