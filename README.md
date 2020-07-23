@@ -6,7 +6,7 @@ If you master most situations, then congratulations, that is really rare.
 For the rest of us, I'd recommend reading a few books.
 
 Don't confuse the lists of books in this repository, with self help books such as "The secret".
-These books are based on the authors experiences, experiences they try to convey in either fiction, anecdotes and/or principles.
+These books are based on the authors experiences, experiences they try to convey in either through fiction, anecdotes and/or principles.
 
 ## Why
 We can either try to do our own thing from scratch, or we can learn from those who has spent decades figuring out the same thing we're about to try out ourselves.
